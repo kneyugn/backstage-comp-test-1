@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: artist-lookup-test-kneyugn
+  name: kneyugn
   description: Artist Lookup
   tags:
     - java
